@@ -1,12 +1,11 @@
-# Pin connections
-# ULN2003 board and Raspberry Pi Pico
+# Pin connections 
+* Connect external supply for ULN2003 Driver module  
+* ULN2003 board and Raspberry Pi Pico
     IN1 - GP2
     IN2 - GP3, 
     IN3 - GP4, 
     IN4 - GP5
-    
-# Connect external supply for ULN2003 Driver module  
-  
+
 # 28BYJ-48 stepper motor Specifications
  * Rated voltage	5 V
  * Coil Resistance	50 Ohms
