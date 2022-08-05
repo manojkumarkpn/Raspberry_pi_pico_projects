@@ -17,3 +17,6 @@
 |DIN|MOSI (SPI0 TX)|GP7|10|
 |CS|SPI0 CSn|GP5|7|
 |CLK|SCK|GP6|9|
+
+# 03_stepper_28BYJ-48_ULN2003
+* Interface 28BYJ-48 stepper motor with ULN2003 driver module
